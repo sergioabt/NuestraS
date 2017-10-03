@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858872518133",
+    "project_id": "nuestra-sangre"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858872518133:android:b1a32bf2e2f432ad",
+        "android_client_info": {
+          "package_name": "com.sergiobt.nuestrasangre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858872518133-ifrjh6cenkfbf35oa46ueg0ns5pr49ah.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "858872518133-sghrfqnhltav1gkbjdsln06nomev4jg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sergiobt.nuestrasangre",
+            "certificate_hash": "06fb755ee69c0ae596fa7f72623f70a439ff4cc5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfOTgSXahuJcevQDwRR7biZo6KyOmzH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
